@@ -23,8 +23,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f8182355476c34c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#前后端分离项目",
+                "query": "path:\"database/\" ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.canvas"
+                "file": "readme.md"
               }
             }
           },
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.canvas",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.canvas",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,13 +179,13 @@
       "canvas:新建白板": false
     }
   },
-  "active": "1c87ef4150171b05",
+  "active": "f8182355476c34c2",
   "lastOpenFiles": [
+    "todo.canvas",
     "未命名.canvas",
     "docker/Dockerfile.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
-    "todo.canvas",
     "docker/services.md",
     "docker/install.md",
     "database/mysql/sql.md",
