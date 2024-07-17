@@ -17,7 +17,7 @@
                 "file": "todo.canvas",
                 "viewState": {
                   "x": -217,
-                  "y": -1426.5,
+                  "y": -961.5,
                   "zoom": 0
                 }
               },
@@ -35,8 +35,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57a125aa79fbcf17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.canvas"
+                "file": "readme.md"
               }
             }
           },
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.canvas",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.canvas",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,10 +191,10 @@
       "canvas:新建白板": false
     }
   },
-  "active": "320449a1504b39be",
+  "active": "57a125aa79fbcf17",
   "lastOpenFiles": [
-    "readme.md",
     "todo.canvas",
+    "readme.md",
     "未命名.canvas",
     "docker/Dockerfile.md",
     "未命名 1.canvas",
