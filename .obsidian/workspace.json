@@ -36,8 +36,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "todo.canvas"
               }
             }
           },
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "todo.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "todo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +178,9 @@
       "canvas:新建白板": false
     }
   },
-  "active": "f8182355476c34c2",
+  "active": "320449a1504b39be",
   "lastOpenFiles": [
+    "readme.md",
     "todo.canvas",
     "未命名.canvas",
     "docker/Dockerfile.md",
@@ -190,7 +190,6 @@
     "docker/install.md",
     "database/mysql/sql.md",
     "java/springcloud/分布式事务.md",
-    "readme.md",
     "vue3/starter.md",
     "vue3/组件传值.md",
     "java/springboot/global-exception-handler.md",
