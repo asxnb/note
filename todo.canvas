@@ -5,7 +5,7 @@
 		{"id":"3edcebe6b7c16cc5","type":"text","text":"# python\nP70","x":-712,"y":-1477,"width":195,"height":114},
 		{"id":"8562ef502287275e","type":"text","text":"# erp重构\n","x":56,"y":-1564,"width":225,"height":165},
 		{"id":"757504cb95fdd582","type":"text","text":"# 工作流","x":80,"y":-1717,"width":177,"height":74},
-		{"id":"c83530f9d92d6114","type":"text","text":"# vue-demo\n\n","x":-684,"y":-1217,"width":219,"height":101}
+		{"id":"c83530f9d92d6114","type":"text","text":"# vue-demo\n\n","x":-377,"y":-1363,"width":219,"height":101}
 	],
 	"edges":[
 		{"id":"eb33cab755da8b70","fromNode":"757504cb95fdd582","fromSide":"bottom","toNode":"8562ef502287275e","toSide":"top"}
