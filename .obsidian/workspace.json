@@ -16,31 +16,27 @@
               "state": {
                 "file": "todo.canvas",
                 "viewState": {
-                  "x": -217,
-                  "y": -1499.5,
-                  "zoom": 0
+                  "x": 294,
+                  "y": -1392,
+                  "zoom": -0.19431561596989977
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "4ba16936574d63f0",
+            "id": "a2ae1d11329e56c6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "todo.canvas",
-                "viewState": {
-                  "x": -226.5,
-                  "y": -1569.5,
-                  "zoom": 0
-                }
+                "file": "docker/services.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,38 +167,40 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 454.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "random-note:开始漫游笔记": false,
       "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": true,
-      "canvas:新建白板": false
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "4ba16936574d63f0",
+  "active": "320449a1504b39be",
   "lastOpenFiles": [
-    "readme.md",
+    "docker/services.md",
     "todo.canvas",
+    "docker/compose.md",
+    "vue3/dev-proxy.md",
     "未命名.canvas",
+    "vue3/axios.md",
+    "java/springcloud/服务注册发现.md",
+    "readme.md",
+    "vue3/svg-icon.md",
+    "docker/install.md",
+    "vue3/element-plus.md",
+    "vue3/组件传值.md",
     "docker/Dockerfile.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
-    "docker/services.md",
-    "docker/install.md",
     "database/mysql/sql.md",
     "java/springcloud/分布式事务.md",
     "vue3/starter.md",
-    "vue3/组件传值.md",
     "java/springboot/global-exception-handler.md",
-    "vue3/dev-proxy.md",
     "vue3/router.md",
-    "vue3/svg-icon.md",
-    "vue3/element-plus.md",
     "vue3/plugin.md",
-    "vue3/axios.md",
     "database/mysql/quick.md",
     "database/mysql/user and authority.md",
     "database/mysql/install.md",
@@ -211,8 +209,6 @@
     "design-mode/大纲.md",
     "design-mode/创建型模式/抽象工厂模式.md",
     "java/springboot/mybatis.md",
-    "java/springboot/data-format.md",
-    "vue3/start.md",
     "java/io",
     "database/mysql/images/Pasted image 20240220195222.png",
     "database/mysql/images/Pasted image 20240220194207.png",

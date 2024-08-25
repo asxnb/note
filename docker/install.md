@@ -33,7 +33,7 @@ sudo systemctl enable docker
 ### yum docker 阿里源
 
 ```sh
-yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+sudo yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
 ```
 
 ### 一键安装
