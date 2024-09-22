@@ -7,7 +7,7 @@
   "strictLineBreaks": true,
   "foldHeading": true,
   "foldIndent": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "spellcheck": false,
   "autoPairBrackets": true,
   "autoConvertHtml": false,

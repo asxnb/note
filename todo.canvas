@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"d04d9fd79647e5fc","type":"text","text":"# JAVA\n- [ ] java网络模型 \n- [ ] [牛客sql](https://www.nowcoder.com/practice/d8a4f7b1ded04948b5435a45f03ead8c?tpId=199&tqId=1980674&ru=%2Fpractice%2Fb8f30b239b454ed490367b53ea95607d&qru=%2Fta%2Fsql-quick-study%2Fquestion-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D199) \n- [ ] [牛客面试题](https://www.nowcoder.com/exam/interview/82584845/test?paperId=57718373&order=0) \n- [ ] socket,server ","x":-439,"y":-2017,"width":307,"height":396},
-		{"id":"8562ef502287275e","type":"text","text":"# erp重构\n","x":140,"y":-1861,"width":225,"height":85},
+		{"id":"8562ef502287275e","type":"text","text":"# erp重构\n","x":140,"y":-1856,"width":225,"height":80},
 		{"id":"757504cb95fdd582","type":"text","text":"# 工作流","x":164,"y":-1998,"width":177,"height":62},
 		{"id":"a7b8eae1d96d562a","type":"text","text":"# 审计","x":143,"y":-1540,"width":198,"height":159},
-		{"id":"c83530f9d92d6114","type":"text","text":"# vue-demo\n\n","x":146,"y":-1722,"width":219,"height":118}
+		{"id":"c83530f9d92d6114","type":"text","text":"# vue-demo\n\n","x":146,"y":-1722,"width":219,"height":118},
+		{"id":"d04d9fd79647e5fc","type":"text","text":"# JAVA\n- [ ] java网络模型 \n- [ ] [牛客sql](https://www.nowcoder.com/practice/d8a4f7b1ded04948b5435a45f03ead8c?tpId=199&tqId=1980674&ru=%2Fpractice%2Fb8f30b239b454ed490367b53ea95607d&qru=%2Fta%2Fsql-quick-study%2Fquestion-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D199) \n- [ ] [牛客面试题](https://www.nowcoder.com/exam/interview/82584845/test?paperId=57718373&order=0) \n- [ ] socket,server","x":-244,"y":-1998,"width":334,"height":241}
 	],
 	"edges":[
 		{"id":"eb33cab755da8b70","fromNode":"757504cb95fdd582","fromSide":"bottom","toNode":"8562ef502287275e","toSide":"top"}
