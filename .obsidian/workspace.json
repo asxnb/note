@@ -172,18 +172,17 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false
     }
   },
   "active": "e48ecb629d21fed2",
   "lastOpenFiles": [
-    "todo.canvas",
+    "审计/未命名.md",
     "readme.md",
+    "todo.canvas",
     "未命名.md",
     "未命名",
-    "审计/未命名.md",
     "审计",
     "erp.canvas",
     "().md",

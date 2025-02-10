@@ -9,5 +9,5 @@
   "monospaceFontFamily": "",
   "baseFontSize": 18,
   "showViewHeader": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": false
 }
