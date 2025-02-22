@@ -3,11 +3,12 @@
   "theme": "system",
   "nativeMenus": false,
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "GitHub Theme",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSize": 18,
   "showViewHeader": true,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "showRibbon": true
 }
