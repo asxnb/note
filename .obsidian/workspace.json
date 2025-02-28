@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/regular.md",
+                "file": "java/design-mode/创建型模式/单例模式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "regular"
+              "title": "单例模式"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/regular.md",
+                "file": "java/design-mode/创建型模式/单例模式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "regular 的大纲"
+              "title": "单例模式 的大纲"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/regular.md",
+                "file": "java/design-mode/创建型模式/单例模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "regular 的反向链接列表"
+              "title": "单例模式 的反向链接列表"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/regular.md",
+                "file": "java/design-mode/创建型模式/单例模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "regular 的出链列表"
+              "title": "单例模式 的出链列表"
             }
           }
         ]
@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 506.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,15 +184,24 @@
   },
   "active": "bc0315cff9970133",
   "lastOpenFiles": [
-    "linux/systemctl.md",
+    "java/design-mode/大纲.md",
+    "java/design-mode/创建型模式/单例模式.md",
+    "java/juc/锁.md",
+    "java/design-mode/行为型模式/责任链模式.md",
+    "java/design-mode/行为型模式/images/Pasted image 20240420110634.png",
+    "java/design-mode/行为型模式/strategy策略模式.md",
+    "java/design-mode/创建型模式/工厂方法模式.md",
+    "java/design-mode/创建型模式/抽象工厂模式.md",
+    "database/mysql/user and authority.md",
+    "database/mysql/install.md",
+    "readme.md",
     "linux/regular.md",
+    "linux/systemctl.md",
     "linux/防火墙.md",
     "linux/命令分隔符.md",
     "linux/ifcfg-enc33.md",
     "linux/命令/find.md",
     "未命名.md",
-    "design-mode/大纲.md",
-    "readme.md",
     "linux/命令",
     "未命名 1",
     "未命名",
@@ -202,20 +211,12 @@
     "erp.canvas",
     "().md",
     "java/juc/CompletableFuture.md",
-    "database/mysql/user and authority.md",
     "database/mysql/SQL.md",
     "database/mysql/mysql管理.md",
     "database/mysql/quick.md",
-    "database/mysql/install.md",
     "database/mysql/cluster.md",
     "database/mysql/锁.md",
     "database/mysql/索引index.md",
-    "database/mysql/触发器trigger.md",
-    "database/mysql/存储过程.md",
-    "database/mysql/存储引擎.md",
-    "database/mysql/事务.md",
-    "database/mysql/视图.md",
-    "database/redis/持久化.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "java/io",
@@ -226,12 +227,11 @@
     "database/elasticsearch/images/Pasted image 20240603134121.png",
     "database/elasticsearch/images",
     "database/kafka",
-    "design-mode/行为型模式/images/Pasted image 20240420110634.png",
-    "design-mode/行为型模式/images",
+    "java/design-mode/行为型模式/images",
     "java/springcloud/images/Pasted image 20240316112621.png",
     "nodejs",
     "java/springboot/images/Pasted image 20240313134557.png",
-    "design-mode/创建型模式/images/Pasted image 20240316210442.png",
+    "java/design-mode/创建型模式/images/Pasted image 20240316210442.png",
     "database/mysql/images/Pasted image 20240312190927.png",
     "database/mysql/images/Pasted image 20240224171031.png",
     "qqq.canvas",
