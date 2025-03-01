@@ -76,20 +76,20 @@ drop index <index_name> on <table_name>;
 
 ![](images/Pasted%20image%2020240312190927.png)
 
-| 字段名           | 描述                  |
-| ------------- | ------------------- |
-| id            | 执行顺序,id越大先执行        |
-| select_type   | 查询类型                |
-| table         | 表名                  |
-| partitions    | 分区信息                |
-| type          | 访问方法                |
+|      字段名      | 描述                  |
+| :-----------: | ------------------- |
+|      id       | 执行顺序,id越大先执行        |
+|  select_type  | 查询类型                |
+|     table     | 表名                  |
+|  partitions   | 分区信息                |
+|     type      | 访问方法                |
 | possible_keys | 可能用到的index          |
-| key           | 实际用到的index          |
-| key_len       | 实际用到的index长度        |
-| ref           |                     |
-| rows          | 预估记录数               |
-| filtered      | 符合条件的记录/查询到的记录(百分比) |
-| extra         | 额外信息                |
+|      key      | 实际用到的index          |
+|    key_len    | 实际用到的index长度        |
+|      ref      |                     |
+|     rows      | 预估记录数               |
+|   filtered    | 符合条件的记录/查询到的记录(百分比) |
+|     extra     | 额外信息                |
 
 # 索引使用注意事项
 
